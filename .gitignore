@@ -1,0 +1,8 @@
+
+__pycache__/
+*.pyc
+*.pth
+.ipynb_checkpoints
+*.xls
+*.xlsx
+results/*.npz
