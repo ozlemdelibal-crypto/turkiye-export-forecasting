@@ -275,9 +275,10 @@ MIT License - see LICENSE file for details
 
 ## 👤 Author
 
-[Your Name]  
-[Your Email]  
-[Your GitHub]
+[Özlem DELİBAL]  ]  
+[ozlemdelibal@gmail.com]
+[https://github.com/ozlemdelibal-crypto]
+
 
 ## 🙏 Acknowledgments
 
@@ -286,7 +287,7 @@ MIT License - see LICENSE file for details
 
 ## 📞 Contact
 
-For questions or issues, please open an issue on GitHub or contact [your.email@example.com]
+For questions or issues, please open an issue on GitHub or contact [(https://github.com/ozlemdelibal-crypto)]
 
 ---
 
